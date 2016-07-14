@@ -1,0 +1,1 @@
+This repo is a collection of the exercises that were done on http://learnpythonthehardway.org/
